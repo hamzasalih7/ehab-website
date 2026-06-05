@@ -1,0 +1,426 @@
+{
+  "meta": {
+    "homeTitle": "Ehab Solutions | Premium Business Services in Saudi Arabia",
+    "homeDescription": "Ehab Solutions — your one-stop partner for consulting, business setup, real estate, digital services, construction, restaurant solutions, and visa assistance in Saudi Arabia.",
+    "aboutTitle": "About Us | Ehab Solutions",
+    "aboutDescription": "Learn about Ehab Solutions — your trusted partner for business services in Saudi Arabia.",
+    "servicesTitle": "Our Services | Ehab Solutions",
+    "servicesDescription": "Comprehensive business services: restaurant, construction, visa, consulting, real estate, and digital solutions in Saudi Arabia.",
+    "contactTitle": "Contact Us | Ehab Solutions",
+    "contactDescription": "Get in touch with Ehab Solutions for expert business support in Saudi Arabia.",
+    "consultingTitle": "Business Consulting Services | Ehab Solutions",
+    "consultingDescription": "Full-spectrum business consulting for companies operating in Saudi Arabia.",
+    "realEstateTitle": "Real Estate Services | Ehab Solutions",
+    "realEstateDescription": "Commercial and residential property rentals and business establishment support in Saudi Arabia.",
+    "digitalTitle": "Digital Services | Ehab Solutions",
+    "digitalDescription": "Amazon, marketing, web development, and branding services for businesses in Saudi Arabia."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact",
+    "getStarted": "Get Started",
+    "restaurant": "Restaurant Services",
+    "construction": "Construction Services",
+    "visa": "Visa Services",
+    "consulting": "Business Consulting Services",
+    "realEstate": "Real Estate Services",
+    "digital": "Digital Services"
+  },
+  "hero": {
+    "badge": "Trusted Business Partner in KSA",
+    "title": "Elevating Your Business in Saudi Arabia",
+    "subtitle": "Your one-stop business partner in Saudi Arabia — consulting, setup, real estate, digital services, construction, restaurants, and visa assistance with excellence and trust.",
+    "ctaPrimary": "Get Started",
+    "ctaSecondary": "Contact Us"
+  },
+  "about": {
+    "label": "About Ehab Solutions",
+    "title": "Your Strategic Partner for Growth",
+    "description": "With deep expertise in Saudi regulations and international business standards, Ehab Solutions delivers end-to-end support that transforms complexity into opportunity. We combine local insight with world-class service delivery.",
+    "learnMore": "Learn More About Us"
+  },
+  "services": {
+    "label": "Our Services",
+    "title": "Comprehensive Business Solutions",
+    "subtitle": "Six premium service categories to accelerate your success across the Kingdom.",
+    "viewAll": "View All Services",
+    "learnMore": "Learn More"
+  },
+  "mainServices": {
+    "restaurant": {
+      "title": "Restaurant Services",
+      "description": "Complete restaurant setup, licensing, and operational excellence.",
+      "restaurantSetup": "Restaurant setup assistance",
+      "licensing": "Licensing and permits",
+      "consulting": "Business consulting",
+      "recruitment": "Staff recruitment support",
+      "management": "Restaurant management solutions"
+    },
+    "construction": {
+      "title": "Construction Services",
+      "description": "End-to-end construction support with safety and compliance at the core.",
+      "projectSupport": "Construction project support",
+      "engineering": "Engineering consultation",
+      "workforce": "Workforce solutions",
+      "safety": "Safety and compliance assistance",
+      "projectManagement": "Project management"
+    },
+    "visa": {
+      "title": "Visa Services",
+      "description": "Streamlined visa processing for businesses and families.",
+      "businessVisas": "Business visas",
+      "workVisas": "Work visas",
+      "familyVisas": "Family visas",
+      "visitVisas": "Visit visas",
+      "documentation": "Documentation assistance",
+      "immigration": "Immigration consulting"
+    }
+  },
+  "whyUs": {
+    "label": "Why Choose Us",
+    "title": "Excellence You Can Trust",
+    "items": {
+      "expertise": {
+        "title": "Local Expertise",
+        "description": "Deep knowledge of Saudi regulations, culture, and business landscape."
+      },
+      "compliance": {
+        "title": "Full Compliance",
+        "description": "Ensuring your operations meet all government and industry requirements."
+      },
+      "support": {
+        "title": "Dedicated Support",
+        "description": "Personal account managers available throughout your journey."
+      },
+      "results": {
+        "title": "Proven Results",
+        "description": "Hundreds of successful projects across diverse industries."
+      }
+    }
+  },
+  "stats": {
+    "clients": "Happy Clients",
+    "projects": "Projects Completed",
+    "years": "Years Experience",
+    "experts": "Expert Consultants"
+  },
+  "testimonials": {
+    "label": "Client Testimonials",
+    "title": "What Our Clients Say",
+    "items": {
+      "1": {
+        "quote": "Ehab Solutions transformed our restaurant launch. Their expertise in licensing and setup was invaluable.",
+        "author": "Ahmed Al-Rashid",
+        "role": "Restaurant Owner, Riyadh"
+      },
+      "2": {
+        "quote": "Professional, responsive, and thorough. They handled our visa processing seamlessly for our entire team.",
+        "author": "Sarah Mitchell",
+        "role": "HR Director, International Corp"
+      },
+      "3": {
+        "quote": "Their consulting team helped us navigate ZATCA compliance with confidence. Highly recommended.",
+        "author": "Khalid Al-Otaibi",
+        "role": "CEO, Trading Company"
+      }
+    }
+  },
+  "cta": {
+    "title": "Ready to Grow Your Business?",
+    "subtitle": "Let our experts guide you through every step. Contact us today for a free consultation.",
+    "button": "Contact Us Today"
+  },
+  "footer": {
+    "description": "Premium business services for enterprises operating in Saudi Arabia.",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "contact": "Contact",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "aboutPage": {
+    "heroTitle": "About Ehab Solutions",
+    "heroSubtitle": "Building trust through excellence in business services across the Kingdom.",
+    "introTitle": "Who We Are",
+    "introText": "Ehab Solutions is a premier Saudi business services company dedicated to helping enterprises establish, operate, and grow with confidence. From restaurant ventures to construction projects, visa processing to comprehensive consulting — we are your single trusted partner.",
+    "missionTitle": "Our Mission",
+    "missionText": "To empower businesses with seamless, compliant, and innovative solutions that unlock growth opportunities in Saudi Arabia.",
+    "visionTitle": "Our Vision",
+    "visionText": "To be the most trusted business services partner in the GCC, recognized for excellence, integrity, and transformative results.",
+    "valuesTitle": "Our Values",
+    "values": {
+      "integrity": { "title": "Integrity", "description": "Transparent, ethical practices in every engagement." },
+      "excellence": { "title": "Excellence", "description": "Uncompromising quality in service delivery." },
+      "innovation": { "title": "Innovation", "description": "Modern solutions for evolving business needs." },
+      "partnership": { "title": "Partnership", "description": "Long-term relationships built on mutual success." }
+    },
+    "teamTitle": "Leadership Team",
+    "teamSubtitle": "Experienced professionals committed to your success.",
+    "achievementsTitle": "Business Achievements",
+    "achievements": {
+      "1": "500+ successful business setups",
+      "2": "ISO-aligned quality processes",
+      "3": "Government-certified PRO services",
+      "4": "Multi-sector industry expertise"
+    },
+    "timelineTitle": "Our Journey",
+    "timeline": {
+      "2015": { "title": "Founded", "description": "Ehab Solutions established in Riyadh." },
+      "2018": { "title": "Expansion", "description": "Added construction and visa divisions." },
+      "2021": { "title": "Consulting Launch", "description": "Full business consulting portfolio launched." },
+      "2024": { "title": "Regional Leader", "description": "Recognized as a top KSA business services provider." }
+    }
+  },
+  "servicesPage": {
+    "heroTitle": "Our Services",
+    "heroSubtitle": "End-to-end solutions designed for success in the Saudi market."
+  },
+  "serviceCategories": {
+    "restaurant": {
+      "title": "Restaurant Services",
+      "description": "Complete restaurant setup, licensing, and operational excellence."
+    },
+    "construction": {
+      "title": "Construction Services",
+      "description": "End-to-end construction support with safety and compliance."
+    },
+    "visa": {
+      "title": "Visa Services",
+      "description": "Streamlined visa processing for businesses and families."
+    },
+    "business-consulting": {
+      "title": "Business Consulting Services",
+      "description": "Accounting, setup, PRO, IT, and full business compliance support."
+    },
+    "real-estate": {
+      "title": "Real Estate Services",
+      "description": "Building, villa, and house rentals plus business location support."
+    },
+    "digital-services": {
+      "title": "Digital Services",
+      "description": "Amazon, marketing, web development, and branding solutions."
+    }
+  },
+  "consultingPage": {
+    "heroTitle": "Business Consulting Services",
+    "heroSubtitle": "Comprehensive support to help your business operate, comply, and grow in Saudi Arabia.",
+    "intro": "From accounting and VAT to company formation, IT solutions, and PRO services — we provide integrated consulting that simplifies complexity and accelerates your success in the Kingdom.",
+    "subServicesTitle": "Our Consulting Solutions"
+  },
+  "realEstatePage": {
+    "heroTitle": "Real Estate Services",
+    "heroSubtitle": "Premium property rentals and business establishment support across Saudi Arabia.",
+    "intro": "Whether you need commercial buildings, luxury villas, family homes, or the perfect location for your business license — Ehab Solutions connects you with approved properties and full leasing support.",
+    "subServicesTitle": "Property & Leasing Solutions"
+  },
+  "digitalPage": {
+    "heroTitle": "Digital Services",
+    "heroSubtitle": "Grow your brand online with expert Amazon, marketing, web, and branding services.",
+    "intro": "From Amazon seller success to high-converting websites and powerful ad campaigns — our digital team helps Saudi businesses dominate online markets with data-driven strategies.",
+    "subServicesTitle": "Digital Solutions"
+  },
+  "digitalDetail": {
+    "portfolioLabel": "Our Work",
+    "portfolioTitle": "Portfolio Highlights",
+    "portfolioSubtitle": "A showcase of digital projects delivered for businesses across Saudi Arabia.",
+    "portfolioItem": "Project"
+  },
+  "consultingServices": {
+    "accounting-vat-audit": {
+      "title": "Accounting, VAT & Audit Services",
+      "description": "Complete financial compliance and reporting for Saudi businesses.",
+      "bookkeeping": "Bookkeeping",
+      "vatRegistration": "VAT Registration & Filing",
+      "zatcaCompliance": "ZATCA Compliance",
+      "financialReporting": "Financial Reporting",
+      "auditSupport": "Audit Support"
+    },
+    "banking-financial": {
+      "title": "Banking & Financial Services",
+      "description": "Corporate banking and financial advisory solutions.",
+      "bankAccount": "Corporate Bank Account Opening",
+      "bankingDocs": "Banking Documentation Assistance",
+      "financialAdvisory": "Financial Advisory",
+      "investmentConsultation": "Investment Consultation"
+    },
+    "business-setup": {
+      "title": "Business Setup Services",
+      "description": "Launch your business in Saudi Arabia with expert guidance.",
+      "newCompany": "New Company Setup",
+      "foreignInvestor": "Foreign Investor Support",
+      "commercialRegistration": "Commercial Registration (CR)",
+      "businessLicensing": "Business Licensing"
+    },
+    "company-formation": {
+      "title": "Company Formation & Registration",
+      "description": "Legal entity formation and government approvals.",
+      "llcFormation": "LLC Formation",
+      "branchOffice": "Branch Office Registration",
+      "misaSupport": "MISA Support",
+      "governmentApprovals": "Government Approvals"
+    },
+    "it-technology": {
+      "title": "IT & Technology Services",
+      "description": "Digital solutions for modern enterprises.",
+      "websiteDevelopment": "Website Development",
+      "cloudSolutions": "Cloud Solutions",
+      "itInfrastructure": "IT Infrastructure",
+      "digitalTransformation": "Digital Transformation",
+      "technicalSupport": "Technical Support"
+    },
+    "payroll-hr": {
+      "title": "Payroll & HR Compliance Services",
+      "description": "Workforce management and regulatory compliance.",
+      "payrollProcessing": "Payroll Processing",
+      "employeeManagement": "Employee Management",
+      "gosiRegistration": "GOSI Registration",
+      "hrDocumentation": "HR Documentation",
+      "complianceSupport": "Compliance Support"
+    },
+    "premium-residency": {
+      "title": "Premium Residency (Saudi Golden Visa)",
+      "description": "Premium residency solutions for eligible investors.",
+      "eligibilityAssessment": "Eligibility Assessment",
+      "applicationProcessing": "Application Processing",
+      "documentationSupport": "Documentation Support",
+      "residencyRenewal": "Residency Renewal Assistance"
+    },
+    "pro-gro": {
+      "title": "PRO & GRO Services",
+      "description": "Government relations and document processing.",
+      "iqamaServices": "Iqama Services",
+      "visaProcessing": "Visa Processing",
+      "governmentRelations": "Government Relations",
+      "chamberRegistration": "Chamber Registration",
+      "municipalityServices": "Municipality Services",
+      "documentAttestation": "Document Attestation",
+      "licenseRenewals": "License Renewals"
+    }
+  },
+  "realEstateServices": {
+    "building-rentals": {
+      "title": "Building Rentals",
+      "description": "Commercial, office, and residential building rentals across prime Saudi locations.",
+      "commercialBuildings": "Commercial Buildings",
+      "officeBuildings": "Office Buildings",
+      "residentialBuildings": "Residential Buildings"
+    },
+    "villa-rentals": {
+      "title": "Villa Rentals",
+      "description": "Luxury and family villas including fully furnished premium options.",
+      "luxuryVillas": "Luxury Villas",
+      "familyVillas": "Family Villas",
+      "furnishedVillas": "Furnished Villas"
+    },
+    "house-rentals": {
+      "title": "House Rentals",
+      "description": "Family homes available for short-term and long-term rental agreements.",
+      "familyHouses": "Family Houses",
+      "shortTermRentals": "Short-Term Rentals",
+      "longTermRentals": "Long-Term Rentals"
+    },
+    "business-establishment-support": {
+      "title": "Business Establishment Support",
+      "description": "Find approved commercial locations and secure licenses with compliant property support.",
+      "findLocation": "Find a suitable business location",
+      "commercialLeasing": "Commercial property leasing",
+      "officeRental": "Office space rental",
+      "licenseRequirements": "Business license location requirements",
+      "licenseLocationSupport": "Support obtaining licenses using approved commercial locations"
+    }
+  },
+  "digitalServices": {
+    "amazon-services": {
+      "title": "Amazon Services",
+      "description": "End-to-end Amazon seller support from account setup to store optimization.",
+      "sellerSetup": "Amazon Seller Account Setup",
+      "listingOptimization": "Product Listing Optimization",
+      "storeManagement": "Amazon Store Management",
+      "productResearch": "Product Research",
+      "accountHealth": "Account Health Monitoring"
+    },
+    "advertising-marketing": {
+      "title": "Advertising & Marketing Services",
+      "description": "Multi-platform digital advertising and social media management for maximum ROI.",
+      "googleAds": "Google Ads",
+      "metaAds": "Meta (Facebook & Instagram) Ads",
+      "tiktokAds": "TikTok Ads",
+      "linkedinMarketing": "LinkedIn Marketing",
+      "socialMediaManagement": "Social Media Management",
+      "leadGeneration": "Lead Generation Campaigns"
+    },
+    "website-development": {
+      "title": "Website Design & Development",
+      "description": "Professional websites and e-commerce stores built for performance and conversion.",
+      "businessWebsites": "Business Websites",
+      "corporateWebsites": "Corporate Websites",
+      "ecommerceStores": "E-commerce Stores",
+      "landingPages": "Landing Pages",
+      "maintenance": "Website Maintenance",
+      "seoOptimization": "SEO Optimization"
+    },
+    "branding-digital-presence": {
+      "title": "Branding & Digital Presence",
+      "description": "Build a memorable brand identity and powerful digital presence.",
+      "logoDesign": "Logo Design",
+      "brandIdentity": "Brand Identity",
+      "contentCreation": "Content Creation",
+      "socialMediaBranding": "Social Media Branding"
+    }
+  },
+  "serviceDetail": {
+    "overview": "Service Overview",
+    "benefits": "Key Benefits",
+    "process": "Our Process",
+    "faq": "Frequently Asked Questions",
+    "contactForm": "Request a Consultation",
+    "benefitsList": {
+      "1": "Expert guidance tailored to Saudi regulations",
+      "2": "Faster processing with established government relationships",
+      "3": "End-to-end support from planning to completion",
+      "4": "Transparent pricing with no hidden fees"
+    },
+    "processSteps": {
+      "1": { "title": "Consultation", "description": "We assess your needs and create a customized plan." },
+      "2": { "title": "Documentation", "description": "Our team prepares and reviews all required documents." },
+      "3": { "title": "Processing", "description": "We handle submissions and follow up with authorities." },
+      "4": { "title": "Completion", "description": "You receive deliverables and ongoing support as needed." }
+    },
+    "faqItems": {
+      "1": { "q": "How long does the process typically take?", "a": "Timelines vary by service but most processes complete within 2-8 weeks with our expedited handling." },
+      "2": { "q": "What documents do I need?", "a": "We provide a complete checklist during your initial consultation based on your specific situation." },
+      "3": { "q": "Do you support foreign investors?", "a": "Yes, we specialize in assisting international businesses entering the Saudi market." }
+    }
+  },
+  "contactPage": {
+    "heroTitle": "Contact Us",
+    "heroSubtitle": "We're here to help. Reach out for a free consultation.",
+    "formTitle": "Send Us a Message",
+    "name": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "service": "Service Interest",
+    "message": "Your Message",
+    "submit": "Send Message",
+    "selectService": "Select a service",
+    "office": "Office Location",
+    "hours": "Business Hours",
+    "whatsapp": "Chat on WhatsApp"
+  },
+  "form": {
+    "success": "Thank you! Your message has been sent successfully. We'll contact you shortly.",
+    "error": "Something went wrong. Please try again.",
+    "sending": "Sending..."
+  },
+  "common": {
+    "readMore": "Learn More",
+    "backToServices": "Back to Services",
+    "contactUs": "Contact Us",
+    "getQuote": "Get a Quote",
+    "scrollTop": "Back to top"
+  },
+  "loading": "Loading..."
+}
