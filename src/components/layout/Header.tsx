@@ -4,7 +4,8 @@ import { useState, useEffect } from "react";
 import { useTranslations, useLocale } from "next-intl";
 import { Link, usePathname } from "@/i18n/routing";
 import { motion, AnimatePresence } from "framer-motion";
-import { Menu, X, ChevronDown, Sun, Moon, Globe } from "lucide-react";
+import { Menu, X, ChevronDown, Sun, Moon, Globe, MessageCircle } from "lucide-react";
+import { siteConfig } from "@/lib/services-data";
 import { cn } from "@/lib/utils";
 import { useTheme } from "@/components/providers/ThemeProvider";
 import {
@@ -56,6 +57,7 @@ const serviceLinks: ServiceNavItem[] = [
 
 export function Header() {
   const t = useTranslations("nav");
+  const tCommon = useTranslations("common");
   const tConsulting = useTranslations("consultingServices");
   const tRealEstate = useTranslations("realEstateServices");
   const tDigital = useTranslations("digitalServices");
@@ -355,6 +357,15 @@ export function Header() {
                   {switchLocale.toUpperCase()}
                 </Link>
               </div>
+              <a
+                href={siteConfig.whatsappUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="mx-4 mt-2 flex items-center justify-center gap-2 py-3 rounded-xl bg-[#25D366] text-white font-semibold"
+              >
+                <MessageCircle className="w-5 h-5" />
+                {tCommon("whatsapp")}
+              </a>
             </nav>
           </motion.div>
         )}

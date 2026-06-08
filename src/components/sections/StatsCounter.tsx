@@ -39,7 +39,7 @@ export function StatsCounter() {
 
   const stats = [
     { value: 500, suffix: "+", label: t("clients") },
-    { value: 750, suffix: "+", label: t("projects") },
+    { value: 300, suffix: "+", label: t("projects") },
     { value: 10, suffix: "+", label: t("years") },
     { value: 50, suffix: "+", label: t("experts") },
   ];

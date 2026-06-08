@@ -10,6 +10,7 @@ import {
   Mail,
   Phone,
   MapPin,
+  MessageCircle,
 } from "lucide-react";
 import { siteConfig } from "@/lib/services-data";
 
@@ -107,12 +108,26 @@ export function Footer() {
             <ul className="space-y-3 text-sm text-gray-400">
               <li className="flex items-start gap-2">
                 <MapPin className="w-4 h-4 text-gold-400 mt-0.5 shrink-0" />
-                {siteConfig.address[locale]}
+                <span className="whitespace-pre-line">{siteConfig.address[locale]}</span>
               </li>
               <li className="flex items-center gap-2">
                 <Phone className="w-4 h-4 text-gold-400 shrink-0" />
-                <a href={`tel:${siteConfig.phone}`} className="hover:text-gold-400">
+                <a
+                  href={`tel:${siteConfig.phone.replace(/\s/g, "")}`}
+                  className="hover:text-gold-400"
+                >
                   {siteConfig.phone}
+                </a>
+              </li>
+              <li className="flex items-center gap-2">
+                <MessageCircle className="w-4 h-4 text-gold-400 shrink-0" />
+                <a
+                  href={siteConfig.whatsappUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:text-gold-400"
+                >
+                  {siteConfig.whatsapp}
                 </a>
               </li>
               <li className="flex items-center gap-2">

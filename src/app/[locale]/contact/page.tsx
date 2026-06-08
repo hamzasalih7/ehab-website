@@ -54,10 +54,11 @@ export default async function ContactPage({
 
               <div className="grid sm:grid-cols-2 gap-4">
                 {[
-                  { Icon: MapPin, label: t("office"), value: siteConfig.address[loc] },
+                  { Icon: MapPin, label: t("address"), value: siteConfig.address[loc], multiline: true },
                   { Icon: Clock, label: t("hours"), value: siteConfig.hours[loc] },
-                  { Icon: Phone, label: "Phone", value: siteConfig.phone, href: `tel:${siteConfig.phone}` },
-                  { Icon: Mail, label: "Email", value: siteConfig.email, href: `mailto:${siteConfig.email}` },
+                  { Icon: Phone, label: t("phoneLabel"), value: siteConfig.phone, href: `tel:${siteConfig.phone.replace(/\s/g, "")}` },
+                  { Icon: MessageCircle, label: t("whatsappLabel"), value: siteConfig.whatsapp, href: siteConfig.whatsappUrl },
+                  { Icon: Mail, label: t("emailLabel"), value: siteConfig.email, href: `mailto:${siteConfig.email}` },
                 ].map((item, i) => (
                   <div
                     key={i}
@@ -70,19 +71,25 @@ export default async function ContactPage({
                     {item.href ? (
                       <a
                         href={item.href}
+                        target={item.href === siteConfig.whatsappUrl ? "_blank" : undefined}
+                        rel={item.href === siteConfig.whatsappUrl ? "noopener noreferrer" : undefined}
                         className="text-brand-700 dark:text-gray-200 hover:text-gold-500 text-sm"
                       >
                         {item.value}
                       </a>
                     ) : (
-                      <p className="text-brand-700 dark:text-gray-200 text-sm">{item.value}</p>
+                      <p
+                        className={`text-brand-700 dark:text-gray-200 text-sm${item.multiline ? " whitespace-pre-line" : ""}`}
+                      >
+                        {item.value}
+                      </p>
                     )}
                   </div>
                 ))}
               </div>
 
               <a
-                href={`https://wa.me/${siteConfig.whatsapp}`}
+                href={siteConfig.whatsappUrl}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center gap-3 w-full py-4 rounded-xl bg-[#25D366] text-white font-semibold hover:opacity-90 transition-opacity"

@@ -87,7 +87,7 @@ export function ContactForm({ defaultService = "", compact = false }: ContactFor
             <label className="block text-sm font-medium text-brand-700 dark:text-gray-300 mb-1.5">
               {t("phone")}
             </label>
-            <input type="tel" name="phone" className={inputClass} />
+            <input type="tel" name="phone" required className={inputClass} />
           </div>
           <div>
             <label className="block text-sm font-medium text-brand-700 dark:text-gray-300 mb-1.5">
@@ -96,6 +96,7 @@ export function ContactForm({ defaultService = "", compact = false }: ContactFor
             <select
               name="service"
               defaultValue={defaultService}
+              required
               className={inputClass}
             >
               <option value="">{t("selectService")}</option>

@@ -96,13 +96,13 @@ export function DigitalServiceDetail({
               <ArrowRight className="w-5 h-5" />
             </Link>
             <a
-              href={`https://wa.me/${siteConfig.whatsapp}`}
+              href={siteConfig.whatsappUrl}
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-8 py-4 rounded-xl bg-[#25D366] text-white font-semibold"
             >
               <MessageCircle className="w-5 h-5" />
-              WhatsApp
+              {tCommon("whatsapp")}
             </a>
             <a
               href={`tel:${siteConfig.phone}`}

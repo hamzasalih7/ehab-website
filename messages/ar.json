@@ -407,6 +407,10 @@
     "submit": "إرسال الرسالة",
     "selectService": "اختر خدمة",
     "office": "موقع المكتب",
+    "address": "العنوان",
+    "phoneLabel": "الهاتف",
+    "whatsappLabel": "واتساب",
+    "emailLabel": "البريد الإلكتروني",
     "hours": "ساعات العمل",
     "whatsapp": "تواصل عبر واتساب"
   },
@@ -419,6 +423,7 @@
     "readMore": "اعرف المزيد",
     "backToServices": "العودة للخدمات",
     "contactUs": "اتصل بنا",
+    "whatsapp": "واتساب",
     "getQuote": "احصل على عرض",
     "scrollTop": "العودة للأعلى"
   },

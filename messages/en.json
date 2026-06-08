@@ -407,6 +407,10 @@
     "submit": "Send Message",
     "selectService": "Select a service",
     "office": "Office Location",
+    "address": "Address",
+    "phoneLabel": "Phone",
+    "whatsappLabel": "WhatsApp",
+    "emailLabel": "Email",
     "hours": "Business Hours",
     "whatsapp": "Chat on WhatsApp"
   },
@@ -419,6 +423,7 @@
     "readMore": "Learn More",
     "backToServices": "Back to Services",
     "contactUs": "Contact Us",
+    "whatsapp": "WhatsApp",
     "getQuote": "Get a Quote",
     "scrollTop": "Back to top"
   },
